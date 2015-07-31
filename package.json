@@ -1,0 +1,15 @@
+{
+  "name": "tracer-api",
+  "version": "0.0.1",
+  "description": "API for Tracer App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Luo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1",
+    "mongoose": "^4.1.0"
+  }
+}
